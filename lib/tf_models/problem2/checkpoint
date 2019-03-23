@@ -1,0 +1,2 @@
+model_checkpoint_path: "csci-599_mine.ckpt"
+all_model_checkpoint_paths: "csci-599_mine.ckpt"
